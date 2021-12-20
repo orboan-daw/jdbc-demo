@@ -12,7 +12,7 @@ public class App {
                 System.out.println(color.toString());
             }
         } catch(DAOException ex){
-
+            System.out.println(ex.getMessage());
         }
     }
 }
