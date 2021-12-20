@@ -1,0 +1,3 @@
+# jdbc-demo
+
+#### IntelliJ projects
